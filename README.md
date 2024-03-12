@@ -3,7 +3,7 @@ Dashboard created in Power BI presenting analysis of police crime data in Chicag
 The aim was to examine crime patterns and trends in order to assist the Chicago Police Department in gaining insights into the crime situation and optimizing resource allocation.
 
 ### Data Sources
-Data about crimes was gathered using API from: https://data.cityofchicago.org.
+Data about crimes was gathered using API from: https://data.cityofchicago.org.  
 Data about Wards was downloaded from: https://www.chicago.gov/city/en/about/wards.html.
 
 ### Screenshots of dashboard
